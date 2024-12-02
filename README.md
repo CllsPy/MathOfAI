@@ -1,0 +1,2 @@
+# MathOfAI
+Math Of Intelligence
